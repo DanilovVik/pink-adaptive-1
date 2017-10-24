@@ -1,7 +1,10 @@
-# Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
+# Личный учебный проект «Пинк» интеснива «[Продвинутый HTML и CSS](https://htmlacademy.ru/intensive/adaptive)» от [HTML Academy](https://htmlacademy.ru).
+[![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
+
+<img width="940" alt="" src="psd/pink-mockup.png">
 
 * Студент: [Юлия Максимова](https://up.htmlacademy.ru/adaptive/12/user/367171).
-* Наставник: `Неизвестно`.
+* Наставник: [Юлия Максимова](http://up.htmlacademy.ru/adaptive/12/user/367171).
 
 ---
 
