@@ -1,5 +1,6 @@
-# Личный учебный проект «Пинк» с интеснива «[Продвинутый HTML и CSS](https://htmlacademy.ru/intensive/adaptive)» от [HTML Academy](https://htmlacademy.ru).
 [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
+
+# Личный учебный проект «Пинк» с интеснива «[Продвинутый HTML и CSS](https://htmlacademy.ru/intensive/adaptive)» от [HTML Academy](https://htmlacademy.ru).
 
 <img width="940" alt="" src="psd/pink-mockup.png">
 
