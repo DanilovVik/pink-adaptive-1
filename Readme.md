@@ -2,6 +2,7 @@
 с интеснива «[Продвинутый HTML и CSS](https://htmlacademy.ru/intensive/adaptive)» от [HTML Academy](https://htmlacademy.ru).
 
 <img width="940" alt="" src="psd/pink-mockup.png">
+
 ---
 
 * Студент: [Юлия Максимова](https://up.htmlacademy.ru/adaptive/12/user/367171).
