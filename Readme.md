@@ -1,4 +1,4 @@
-# Личный учебный проект «Пинк»
+# Личный учебный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 с интеснива «[Продвинутый HTML и CSS](https://htmlacademy.ru/intensive/adaptive)» от [HTML Academy](https://htmlacademy.ru).
 
 <img width="940" alt="" src="psd/pink-mockup.png">
@@ -56,8 +56,6 @@ git clone SSH-адрес_вашего_форка
 <a href="https://htmlacademy.ru/intensive/adaptive"><img align="left" width="50" height="50" alt="HTML Academy" src="https://up.htmlacademy.ru/static/img/intensive/adaptive/logo-for-github.svg"></a>
 
 Репозиторий создан для обучения на интенсивном онлайн‑курсе «[Продвинутый HTML и CSS](https://htmlacademy.ru/intensive/adaptive)» от [HTML Academy](https://htmlacademy.ru).
-
-[![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 [travis-image]: https://travis-ci.org/htmlacademy-adaptive/367171-pink.svg?branch=master
 [travis-url]: https://travis-ci.org/htmlacademy-adaptive/367171-pink
